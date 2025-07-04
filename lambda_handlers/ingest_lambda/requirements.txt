@@ -1,0 +1,6 @@
+boto3~=1.39.2
+requests~=2.32.3
+beautifulsoup4~=4.13.4
+urllib3~=2.4.0
+pandas~=2.3.0
+pyspark-stubs~=3.0.0.post3
